@@ -1,0 +1,46 @@
+---
+title: "GA4 Certification Micro-Applications Part 5"
+author: "Arturo Rosas"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## 1. Proof of completion (required)
+
+![](images/GA4%20PART%205.png)
+
+## Exam reflection (required, \~250–400 words total)
+
+1.  **Results summary:** Pass/Not yet + your score (if shown).
+
+    A.  I have not passed yet, I finished with a final score of 44%.
+
+2.  **Top 3 topics that were most challenging** (bullets).
+
+    -   Google AD
+    -   Converison GA4 and Google AD
+
+3.  **Two questions you wish you could redo** (don’t recreate the exam questions—just describe the concept/skill area).
+
+    A.  When asked about converting data from GA4 to Google ads. It continued to trip me up. Also questions pertaining to Big. Those were slightly confusing at times. Would definitely like another chance to pass this certification exam.
+
+4.  **CEP connection:** Name **one thing you will change** in your CEP measurement/analysis plan because of what you learned (concrete and actionable).
+
+    A.  Define my metrics and variables before collecting or analyzing the data. I will clearly identify the key variables I want to measure, how they are calculated, and what type of analysis I will use before starting the analysis.
+
+## 3. GA4 “readiness check” (required; CEP or Google demo)
+
+Option B (Google Demo): Using the demo account, identify one KPI and one supporting exploration/report, with a screenshot.
+
+![](images/GA4 PART 5 2.0-2.png)
+
+I selected acquisition then more specifically Traffic acquisition. The reason behind my KPI choice was to uncover to see the different traffic the demo data would provide. THis insight allows for me to see what is help this website get hits and where they are coming from.
